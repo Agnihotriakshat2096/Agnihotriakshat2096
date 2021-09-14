@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agnihotriakshat2096
 - 👀 I’m a student
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web development
 - 📫 You can mail me.
 
 <!---
